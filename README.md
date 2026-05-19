@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Deekshant Gupta
-## 🚀 Aspiring Data Scientist & Full-Stack Developer
+## 🚀 Full-Stack Developer & Aspiring Data Scientist
 
 I'm a **B.Tech CSE student specializing in AI/ML at VIT** with a strong passion for building intelligent systems and scalable web applications.  
 I enjoy working across the entire stack - from **machine learning models** to **full-stack development** and **cloud deployment**.
